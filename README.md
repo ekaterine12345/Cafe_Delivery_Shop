@@ -1,5 +1,5 @@
-# React Food Delivery App
-This is a food delivery web application built using React.js, Vite, and various other libraries and technologies. The application includes features such as user authentication, 
+# React Cafe Delivery App
+This is a cafe delivery web application built using React.js, Vite, and various other libraries and technologies. The application includes features such as user authentication, 
 form validation, fetching food data from an API, and more.
 
 # Table of Contents
