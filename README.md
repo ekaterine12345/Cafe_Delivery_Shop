@@ -19,6 +19,7 @@ form validation, fetching food data from an API, and more.
 * Form validation using React Hook Form and Yup
 * Adding Items to Cart
 * Removing Items from Cart
+* Filtering Items in Menu
 * Calculating the total fee
 * Fetching food data from API using Axios
 * Responsive design for various devices
