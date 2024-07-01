@@ -34,6 +34,15 @@ A custom hook for handling user authentication, including registering and loggin
 ## useFetchFoodData
 A custom hook for fetching random food data from an API.
 
+# Link to Demo
+https://6682d4f90e7b303227e62588--clinquant-lolly-849384.netlify.app/
+
+# Used packages
+* react-hook-form
+* yup
+* framer-motion
+* axios
+* react router dom
 
 # Privacy Policy
 A dedicated privacy policy page detailing how user data is collected, used, and protected. See PrivacyPolicy.jsx for the component and PrivacyPolicy.css for styling.
