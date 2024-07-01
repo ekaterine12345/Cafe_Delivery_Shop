@@ -16,10 +16,12 @@ form validation, fetching food data from an API, and more.
 * User authentication with registration and login functionality
 * Form validation using React Hook Form and Yup
 * Adding Items to Cart
+* Removing Items from Cart
 * Calculating the total fee
 * Fetching food data from API using Axios
 * Responsive design for various devices
 * Animations using Framer Motion
+* Integration with Storage
 
 # Installation
 1. Clone the repository: git clone https://github.com/ekaterinegurgenidze/react_food_delivery.git
@@ -37,7 +39,7 @@ A custom hook for fetching random food data from an API.
 # Link to Demo
 https://6682d4f90e7b303227e62588--clinquant-lolly-849384.netlify.app/
 
-# Used packages
+# Used packages and Tools
 * react-hook-form
 * yup
 * framer-motion
