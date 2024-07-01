@@ -7,6 +7,8 @@ form validation, fetching food data from an API, and more.
 * Installation
 * Usage
 * Custom Hooks
+* Link to Demo
+* Used packages and Tools
 * Privacy Policy
 * Contributing
 * License
