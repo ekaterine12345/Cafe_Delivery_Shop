@@ -1,4 +1,4 @@
-### React Food Delivery App
+# React Food Delivery App
 This is a food delivery web application built using React.js, Vite, and various other libraries and technologies. The application includes features such as user authentication, 
 form validation, fetching food data from an API, and more.
 
@@ -27,11 +27,11 @@ form validation, fetching food data from an API, and more.
 3. Install the dependencies: npm install
 4. Start the development server: npm run dev
 
-## Custom Hooks
-# useAuth
+# Custom Hooks
+## useAuth
 A custom hook for handling user authentication, including registering and logging in users.
 
-# useFetchFoodData
+## useFetchFoodData
 A custom hook for fetching random food data from an API.
 
 
